@@ -1,0 +1,8 @@
+Usability Improvements
+
+1. Navigation menu is placed at the top for easy access.
+2. Hero section highlights the main purpose of the website clearly.
+3. Call-to-action button is prominently visible for user engagement.
+4. Features are grouped together for better readability.
+5. Simple layout improves user understanding and reduces confusion.
+6. Footer contains important contact information for accessibility.
